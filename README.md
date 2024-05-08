@@ -21,7 +21,7 @@ volkeys is a tool to use the volume keys without having explorer.exe 🔧
 
 ## How to use
 
-Open the exe and wait till all components are loaded, once loaded you are ready to go 🔥, <br>
+Python is not needed. Extract the zip including the _internal folder and open the exe,<br> wait till all components are loaded, once loaded you are ready to go 🔥, <br><br>
 You do not need to have the application on the foreground, you may minimize it at any time 🤏. 
 
 [downloads-badge]: https://img.shields.io/github/downloads/tacogit/volkeys/total?logo=github&logoColor=white&style=flat-square
